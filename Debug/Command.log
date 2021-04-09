@@ -1,0 +1,3 @@
+﻿  Command.cpp
+C:\Новая папка\Command\Command\Command.cpp(90,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Command.vcxproj -> C:\Новая папка\Command\Debug\Command.exe

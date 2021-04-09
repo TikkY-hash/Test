@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\C++\Test\Test\Test.cpp(18,48): warning C4101: userSymbol: неиспользованная локальная переменная
+C:\C++\Test\Test\Test.cpp(85,18): warning C4018: <: несоответствие типов со знаком и без знака
+  Test.vcxproj -> C:\C++\Test\Debug\Test.exe
